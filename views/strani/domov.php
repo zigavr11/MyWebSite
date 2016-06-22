@@ -1,0 +1,1 @@
+<p>Pozdrav <?php echo $first_name . ' ' . $last_name; ?>!<p>
